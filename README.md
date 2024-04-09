@@ -3,7 +3,7 @@
 - 📚 **I teach at [UQAM School of Media](https://edm.uqam.ca/)**
 - 🔭 **Currently designing and building prototypes at** [Fragile](https://fragile.ventures/) 
 - I spend too much time creating [random](https://weirdpressphoto.org/) [artsy](https://noentranceforforeigners.com/) [experiments](https://ecoledemontreal.com/) and [free](https://onlybots.cc/) [products](https://counterapi.com/) [people](https://costo.app/) [love](https://qualitygpts.com/).
-- 
+
 
 
 - 📫 **Reach Out:** Whether it's a potential collaboration, a project idea, or you simply want to chat:
