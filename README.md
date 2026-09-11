@@ -14,4 +14,4 @@
 
  
 
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cloudflare,claude,codex,ts,js,nodejs,python,postgresql,redis,mongodb,react,electron,tensorflow,nextjs,express,html,css,notion,npm,vercel,git,github,vscode)](https://go-skill-icons.vercel.app)  
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cloudflare,ts,js,nodejs,python,postgresql,redis,mongodb,react,electron,tensorflow,nextjs,express,html,css,notion,npm,vercel,git,github,vscode,claude,chatgpt)](https://go-skill-icons.vercel.app)  
