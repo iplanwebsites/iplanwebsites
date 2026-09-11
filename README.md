@@ -15,6 +15,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,astro,cloudflare,discord,bots,express,figma,github,gitlab,lit,materialui,mongodb,nextjs,nodejs,notion,npm,nuxtjs,pinia,react,redis,remix,rollupjs,tensorflow,vercel,vite,vscode,vue)](https://skillicons.dev)
 
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cloudflare,claude,chatgpt,ts,js,nodejs,postgresql,redis,mongodb,react,nextjs,express,html,css,figma,git,github,vscode)](https://go-skill-icons.vercel.app)
 <!--
  
 -->
