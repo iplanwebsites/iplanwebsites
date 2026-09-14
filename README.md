@@ -1,4 +1,4 @@
-![GitHub contributions](https://github-summary.cookskill.dev/demo?v=4&theme=light)
+![GitHub contributions](https://github-summary.cookskill.dev/profile/iplanwebsites?v=4&theme=light)
 ### Hi there! I'm Félix 👋
 
 - 📚 **I teach at [UQAM School of Media](https://edm.uqam.ca/)**
